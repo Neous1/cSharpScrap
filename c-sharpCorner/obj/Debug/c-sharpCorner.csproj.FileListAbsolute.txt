@@ -1,0 +1,9 @@
+C:\Users\yvon\dev\WebScrapping\c-sharpCorner\c-sharpCorner\bin\Debug\c-sharpCorner.exe.config
+C:\Users\yvon\dev\WebScrapping\c-sharpCorner\c-sharpCorner\bin\Debug\c-sharpCorner.exe
+C:\Users\yvon\dev\WebScrapping\c-sharpCorner\c-sharpCorner\bin\Debug\c-sharpCorner.pdb
+C:\Users\yvon\dev\WebScrapping\c-sharpCorner\c-sharpCorner\bin\Debug\HtmlAgilityPack.dll
+C:\Users\yvon\dev\WebScrapping\c-sharpCorner\c-sharpCorner\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\yvon\dev\WebScrapping\c-sharpCorner\c-sharpCorner\bin\Debug\HtmlAgilityPack.xml
+C:\Users\yvon\dev\WebScrapping\c-sharpCorner\c-sharpCorner\obj\Debug\c-sharpCorner.csprojResolveAssemblyReference.cache
+C:\Users\yvon\dev\WebScrapping\c-sharpCorner\c-sharpCorner\obj\Debug\c-sharpCorner.exe
+C:\Users\yvon\dev\WebScrapping\c-sharpCorner\c-sharpCorner\obj\Debug\c-sharpCorner.pdb
